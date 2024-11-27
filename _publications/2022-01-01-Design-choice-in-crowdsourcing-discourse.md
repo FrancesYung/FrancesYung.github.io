@@ -7,7 +7,7 @@ excerpt: 'Obtaining linguistic annotation from novice crowdworkers is far from t
 date: 2022-01-01
 venue: 'LREC'
 paperurl: 'https://aclanthology.org/2022.lrec-1.231/'
-citation: 'Merel Scholman, Valentina Pyatkin, Frances Yung, Ido Dagan, Reut Tsarfaty, Vera DembergLREC 2022'
+citation: 'Merel Scholman, Valentina Pyatkin, Frances Yung, Ido Dagan, Reut Tsarfaty, Vera Demberg (LREC 2022)'
 authors: 'Merel Scholman, Valentina Pyatkin, Frances Yung, Ido Dagan, Reut Tsarfaty, Vera Demberg'
 ---
 Merel Scholman, Valentina Pyatkin, Frances Yung, Ido Dagan, Reut Tsarfaty, Vera Demberg

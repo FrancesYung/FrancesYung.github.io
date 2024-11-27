@@ -7,7 +7,7 @@ excerpt: 'Existing parse methods use varying approaches to identify explicit dis
 date: 2021-01-01
 venue: 'Workshop on Computational Approaches to Discourse@ EMNLP'
 paperurl: 'https://aclanthology.org/2021.codi-main.9/'
-citation: 'Merel Scholman, Tianai  Dong, Frances Yung, Vera DembergWorkshop on Computational Approaches to Discourse@ EMNLP 2021'
+citation: 'Merel Scholman, Tianai  Dong, Frances Yung, Vera Demberg (Workshop on Computational Approaches to Discourse@ EMNLP 2021)'
 authors: 'Merel Scholman, Tianai  Dong, Frances Yung, Vera Demberg'
 ---
 Merel Scholman, Tianai  Dong, Frances Yung, Vera Demberg

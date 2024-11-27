@@ -7,7 +7,7 @@ excerpt: 'We propose a linguistically driven approach to represent discourse rel
 date: 2015-01-01
 venue: 'SIGHAN Workshop on Chinese Language Processing @ ACL'
 paperurl: 'https://aclanthology.org/W15-3101.pdf'
-citation: 'Frances Yung, Kevin Duh, Yuji Matsumoto\nCoNLL @ ACL.2015'
+citation: 'Frances Yung, Kevin Duh, Yuji Matsumoto (SIGHAN Workshop on Chinese Language Processing @ ACL 2015)'
 authors: 'Frances Yung, Kevin Duh, Yuji Matsumoto'
 ---
 Frances Yung, Kevin Duh, Yuji Matsumoto

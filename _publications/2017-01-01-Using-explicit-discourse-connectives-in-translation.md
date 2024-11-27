@@ -7,7 +7,7 @@ excerpt: 'Implicit discourse relation recognition is an extremely challenging ta
 date: 2017-01-01
 venue: 'IJPNLP'
 paperurl: 'https://aclanthology.org/I17-1049/'
-citation: 'Wei Shi, Frances Yung, Raphael Rubino, Vera DembergIJPNLP 2017'
+citation: 'Wei Shi, Frances Yung, Raphael Rubino, Vera Demberg (IJPNLP 2017)'
 authors: 'Wei Shi, Frances Yung, Raphael Rubino, Vera Demberg'
 ---
 Wei Shi, Frances Yung, Raphael Rubino, Vera Demberg

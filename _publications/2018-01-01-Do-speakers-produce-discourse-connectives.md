@@ -7,7 +7,7 @@ excerpt: 'A number of different discourse connectives can be used to mark the sa
 date: 2018-01-01
 venue: 'Workshop on Cognitive Aspects of Computational Language Learning and Processing @ ACL'
 paperurl: 'https://aclanthology.org/W18-2802/'
-citation: 'Frances Yung, Vera DembergWorkshop on Cognitive Aspects of Computational Language Learning and Processing @ ACL 2018'
+citation: 'Frances Yung, Vera Demberg (Workshop on Cognitive Aspects of Computational Language Learning and Processing @ ACL 2018)'
 authors: 'Frances Yung, Vera Demberg'
 ---
 Frances Yung, Vera Demberg

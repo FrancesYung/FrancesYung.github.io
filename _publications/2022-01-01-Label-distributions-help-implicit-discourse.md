@@ -7,7 +7,7 @@ excerpt: 'Implicit discourse relations can convey more than one relation sense, 
 date: 2022-01-01
 venue: 'Workshop on Computational Approaches to Discourse@ COLING'
 paperurl: 'https://aclanthology.org/2022.codi-1.7/'
-citation: 'Frances Yung, Kaveri Anuranjana, Merel Scholman, Vera DembergWorkshop on Computational Approaches to Discourse@ COLING 2022'
+citation: 'Frances Yung, Kaveri Anuranjana, Merel Scholman, Vera Demberg (Workshop on Computational Approaches to Discourse@ COLING 2022)'
 authors: 'Frances Yung, Kaveri Anuranjana, Merel Scholman, Vera Demberg'
 ---
 Frances Yung, Kaveri Anuranjana, Merel Scholman, Vera Demberg

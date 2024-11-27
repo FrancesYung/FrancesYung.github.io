@@ -7,7 +7,7 @@ excerpt: 'In data-driven natural language generation, we typically know what rel
 date: 2021-01-01
 venue: 'Workshop on Computational Approaches to Discourse@ EMNLP'
 paperurl: 'https://aclanthology.org/2021.codi-main.7/'
-citation: 'Frances Yung, Merel Scholman, Vera DembergWorkshop on Computational Approaches to Discourse@ EMNLP 2021'
+citation: 'Frances Yung, Merel Scholman, Vera Demberg (Workshop on Computational Approaches to Discourse@ EMNLP 2021)'
 authors: 'Frances Yung, Merel Scholman, Vera Demberg'
 ---
 Frances Yung, Merel Scholman, Vera Demberg
