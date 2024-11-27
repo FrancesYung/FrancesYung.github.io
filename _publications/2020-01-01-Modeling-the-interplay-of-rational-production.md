@@ -1,7 +1,7 @@
 ---
 title: "Modeling the interplay of rational production and comprehension of ambiguous connectives"
 collection: publications
-category:conferences
+category: conferences
 permalink: /publication/2020-01-01-Modeling-the-interplay-of-rational-production
 date: 2020-01-01
 venue: 'Societas Linguistica Europaea'

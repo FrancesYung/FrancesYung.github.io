@@ -1,7 +1,7 @@
 ---
 title: "Translation Effect on Discourse Connective Choice"
 collection: publications
-category:conferences
+category: conferences
 permalink: /publication/2023-01-01-Translation-effect-on-discourse-connective
 date: 2023-01-01
 venue: 'DGfS'
