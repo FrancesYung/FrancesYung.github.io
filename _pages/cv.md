@@ -35,22 +35,23 @@ Research experience
   * Cognitive Modelling of Information Density for Discourse Relations
   * SFB1102 Project B2 Phase 1, PI: Vera Demberg
   * Uniform Information Density and discourse relation markedness
+  <br/><br/>
 
-<br/><br/>
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  <br/><br/>
   
-<br/><br/>
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  <br/><br/>
 
-<br/><br/>
 Co-Supervision
 =====
 * Mahmoud Mohamed
@@ -76,8 +77,9 @@ Co-Supervision
 * Iza Skrjanec
   * Master in Language Science and Technology, 2020
   * Title: Generating Summaries of Bar Charts
+<br/><br/>
 
-<br/><br/>  
+ 
 Service
 ======
 * Reviewer
