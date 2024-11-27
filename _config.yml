@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Frances Yung"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Frances Yung"
 description              : &description "Research associate at Saarland University"
@@ -22,7 +22,7 @@ baseurl                  :  # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Frances Yung"
+  name             : "Dr. Frances Yung"
   pronouns         : # example: "she/her"  
   bio              : "Research associate at the department of Language Science and Technology, Saarland University "
   location         : "Germany"
@@ -88,7 +88,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts, or disabled
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts, or disabled
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"

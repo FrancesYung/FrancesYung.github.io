@@ -7,10 +7,10 @@ excerpt: 'Pre-trained large language models, such as ChatGPT, archive outstandin
 date: 2024-01-01
 venue: 'Linguistic Annotation Workshop @ EACL'
 paperurl: 'https://aclanthology.org/2024.law-1.pdf#page=162'
-citation: 'Frances Yung, Frances, Mansoor Ahmad,, Merel Scholman, Vera Demberg (Linguistic Annotation Workshop @ EACL 2024)'
-authors: 'Frances Yung, Frances, Mansoor Ahmad,, Merel Scholman, Vera Demberg'
+citation: 'Frances Yung, Mansoor Ahmad, Merel Scholman, Vera Demberg (Linguistic Annotation Workshop @ EACL 2024)'
+authors: 'Frances Yung, Mansoor Ahmad, Merel Scholman, Vera Demberg'
 ---
-Frances Yung, Frances, Mansoor Ahmad,, Merel Scholman, Vera Demberg
+Frances Yung, Mansoor Ahmad, Merel Scholman, Vera Demberg
 
 <a href='https://aclanthology.org/2024.law-1.pdf#page=162'>Download paper here</a>
 
