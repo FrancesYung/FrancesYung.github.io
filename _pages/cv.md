@@ -58,7 +58,7 @@ Co-Supervision
 
 * Mansoor Ahmad
   * Master in Informatics, 2024
-  * Title Implicit Discourse Relation AnnotationUsing Large Language Models: A Prompt-driven Approach
+  * Title: Implicit Discourse Relation AnnotationUsing Large Language Models: A Prompt-driven Approach
 
 * Shahana Mogal
   * Master in Data Science and Artificial Intelligence, 2024
@@ -86,4 +86,4 @@ Service
   * Journal: Frontiers
 
 * Area chair
- * Sigdial 2024 
+  * Sigdial 2024 
