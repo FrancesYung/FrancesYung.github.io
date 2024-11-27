@@ -15,6 +15,7 @@ Education
 * M.Eng. in Computational Linguistics, Nara Institute of Science and Technology, Japan, 2014
 * M.A. in Language Studies, City University of Hong Kong, Hong Kong, 2011
 * B.A. in Translation, Chinese University of Hong Kong, Hong Kong, 2003
+<br/><br/>
 
 Research experience
 ======
@@ -35,21 +36,21 @@ Research experience
   * SFB1102 Project B2 Phase 1, PI: Vera Demberg
   * Uniform Information Density and discourse relation markedness
 
-
+<br/><br/>
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  
+<br/><br/>
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
+<br/><br/>
 Co-Supervision
 =====
 * Mahmoud Mohamed
@@ -76,7 +77,7 @@ Co-Supervision
   * Master in Language Science and Technology, 2020
   * Title: Generating Summaries of Bar Charts
 
-  
+<br/><br/>  
 Service
 ======
 * Reviewer
