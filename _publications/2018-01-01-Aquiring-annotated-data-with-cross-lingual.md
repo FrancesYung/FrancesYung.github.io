@@ -2,12 +2,13 @@
 title: "Acquiring annotated data with cross-lingual explicitation for implicit discourse relation classification"
 collection: publications
 permalink: /publication/2018-01-01-Aquiring-annotated-data-with-cross-lingual
+excerpt: 'Implicit discourse relation classification is one of the most challenging and important tasks in discourse parsing, due to the lack of connectives as strong linguistic cues. A principle bottleneck to further improvement is the shortage of training data (ca. 18k instances in the Penn Discourse Treebank (PDTB)). Shi et al. (2017) proposed to acquire additional data by exploiting connectives in translation: human translators mark discourse relations which are implicit in the source language explicitly in the translation. Using back-translations of such explicitated connectives improves discourse relation parsing performance. This paper addresses the open question of whether the choice of the translation language matters, and whether multiple translations into different languages can be effectively used to improve the quality of the additional data.'
 date: 2018-01-01
-venue: 'arXiv preprint arXiv:1808.10290'
-paperurl: 'https://arxiv.org/abs/1808.10290'
-citation: 'Shi, Wei; Yung, Frances; Demberg, Vera; (2018) Acquiring annotated data with cross-lingual explicitation for implicit discourse relation classification. arXiv preprint arXiv:1808.10290'
+venue: 'Workshop on Discourse Relation Parsing and Treebanking @ NAACL'
+paperurl: 'https://aclanthology.org/W19-2703.pdf'
+authors: 'Shi, Wei; Yung, Frances; Demberg, Vera; '
 ---
 
-<a href='https://arxiv.org/abs/1808.10290'>Download paper here</a>
+<a href='https://aclanthology.org/W19-2703.pdf'>Download paper here</a>
 
-Recommended citation: Shi, Wei; Yung, Frances; Demberg, Vera; (2018) Acquiring annotated data with cross-lingual explicitation for implicit discourse relation classification. arXiv preprint arXiv:1808.10290
+Implicit discourse relation classification is one of the most challenging and important tasks in discourse parsing, due to the lack of connectives as strong linguistic cues. A principle bottleneck to further improvement is the shortage of training data (ca. 18k instances in the Penn Discourse Treebank (PDTB)). Shi et al. (2017) proposed to acquire additional data by exploiting connectives in translation: human translators mark discourse relations which are implicit in the source language explicitly in the translation. Using back-translations of such explicitated connectives improves discourse relation parsing performance. This paper addresses the open question of whether the choice of the translation language matters, and whether multiple translations into different languages can be effectively used to improve the quality of the additional data.
