@@ -6,6 +6,7 @@ permalink: /publication/2020-01-01-Modeling-the-interplay-of-rational-production
 date: 2020-01-01
 venue: 'Societas Linguistica Europaea'
 paperurl: 'http://FrancesYung.github.io/files/SLE2020_W11.pdf'
+citation: 'Frances Yung, Jana Jungbluth, Vera DembergSocietas Linguistica Europaea 2020'
 authors: 'Frances Yung, Jana Jungbluth, Vera Demberg'
 ---
 Frances Yung, Jana Jungbluth, Vera Demberg

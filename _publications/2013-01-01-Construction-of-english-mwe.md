@@ -7,6 +7,7 @@ excerpt: 'This paper reports our ongoing project for constructing an English mul
 date: 2013-01-01
 venue: 'Workshop on Multiword Expressions @ NAACL'
 paperurl: 'https://aclanthology.org/W13-1021.pdf'
+citation: 'Yutaro Shigeto, Ai  Azuma, Sorami Hisamoto, Shuhei Kondo, Tomoya Kose, Keisuke Sakaguchi, Akifumi Yoshimoto, Frances Yung, Yuji Matsumoto\nWorkshop on Linked Data in Linguistics @ ACL.2013'
 authors: 'Yutaro Shigeto, Ai  Azuma, Sorami Hisamoto, Shuhei Kondo, Tomoya Kose, Keisuke Sakaguchi, Akifumi Yoshimoto, Frances Yung, Yuji Matsumoto'
 ---
 Yutaro Shigeto, Ai  Azuma, Sorami Hisamoto, Shuhei Kondo, Tomoya Kose, Keisuke Sakaguchi, Akifumi Yoshimoto, Frances Yung, Yuji Matsumoto

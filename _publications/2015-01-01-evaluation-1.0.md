@@ -7,6 +7,7 @@ excerpt: 'In this paper, we introduce EVALution 1.0, a dataset designed for the 
 date: 2015-01-01
 venue: 'Workshop on Linked Data in Linguistics @ ACL'
 paperurl: 'https://aclanthology.org/W15-4208.pdf'
+citation: 'Enrico Santus, Frances Yung, Alessandro Lenci, Chu-Ren Huang\nACL.2015'
 authors: 'Enrico Santus, Frances Yung, Alessandro Lenci, Chu-Ren Huang'
 ---
 Enrico Santus, Frances Yung, Alessandro Lenci, Chu-Ren Huang

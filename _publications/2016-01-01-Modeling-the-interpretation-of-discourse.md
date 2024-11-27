@@ -7,6 +7,7 @@ excerpt: 'We propose a framework to model human comprehension of discourse conne
 date: 2016-01-01
 venue: 'ACL'
 paperurl: 'https://aclanthology.org/P16-2086.pdf'
+citation: 'Frances Yung, Kevin Duh, Taku Komura, Yuji Matsumoto\nIJPNLP.2016'
 authors: 'Frances Yung, Kevin Duh, Taku Komura, Yuji Matsumoto'
 ---
 Frances Yung, Kevin Duh, Taku Komura, Yuji Matsumoto

@@ -7,6 +7,7 @@ excerpt: 'The perspective of being able to crowd-source coherence relations bear
 date: 2019-01-01
 venue: 'Linguistic Annotation Workshop @ ACL'
 paperurl: 'https://aclanthology.org/W19-4003.pdf'
+citation: 'Frances Yung, Merel Scholman, Vera DembergLinguistic Annotation Workshop @ ACL 2019'
 authors: 'Frances Yung, Merel Scholman, Vera Demberg'
 ---
 Frances Yung, Merel Scholman, Vera Demberg

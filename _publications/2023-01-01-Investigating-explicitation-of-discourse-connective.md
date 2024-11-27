@@ -7,6 +7,7 @@ excerpt: 'Discourse relations have different patterns of marking across differen
 date: 2023-01-01
 venue: 'SIGDIAL'
 paperurl: 'https://aclanthology.org/2023.sigdial-1.2/'
+citation: 'Frances Yung, Merel Scholman, Ekaterina Lapshinova-Koltunski, Christina Pollkläsener, Vera DembergSIGDIAL 2023'
 authors: 'Frances Yung, Merel Scholman, Ekaterina Lapshinova-Koltunski, Christina Pollkläsener, Vera Demberg'
 ---
 Frances Yung, Merel Scholman, Ekaterina Lapshinova-Koltunski, Christina Pollkläsener, Vera Demberg

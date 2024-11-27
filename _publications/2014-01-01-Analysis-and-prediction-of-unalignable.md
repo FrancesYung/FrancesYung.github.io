@@ -7,6 +7,7 @@ excerpt: 'Professional human translators usually do not employ the concept of wo
 date: 2014-01-01
 venue: 'EACL'
 paperurl: 'https://aclanthology.org/E14-4037.pdf'
+citation: 'Frances Yung, Kevin Duh, Yuji Matsumoto\nWorkshop on Discourse in Machine Translation @ EMNLP.2014'
 authors: 'Frances Yung, Kevin Duh, Yuji Matsumoto'
 ---
 Frances Yung, Kevin Duh, Yuji Matsumoto
