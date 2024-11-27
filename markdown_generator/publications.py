@@ -92,6 +92,8 @@ for row, item in publications.iterrows():
     md += "\n---"
     
     ## Markdown description for individual page
+
+    md += "\n" + item.authors
     
     if len(str(item.paper_url)) > 5:
         md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
