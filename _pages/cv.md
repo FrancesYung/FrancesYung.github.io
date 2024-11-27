@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-##Education
+Education
 ======
 * Ph.D in Computational Linguistics, Nara Institute of Science and Technology, Japan, 2017
 * M.Eng. in Computational Linguistics, Nara Institute of Science and Technology, Japan, 2014
 * M.A. in Language Studies, City University of Hong Kong, Hong Kong, 2011
 * B.A. in Translation, Chinese University of Hong Kong, Hong Kong, 2003
 
-##Research experience
+Research experience
 ======
 * July 2022 – Present
   * Cognitive Modelling of Information Density for Discourse Relations
@@ -36,21 +36,21 @@ redirect_from:
   * Uniform Information Density and discourse relation markedness
 
 
-##Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
-##Teaching
+Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 
-##Co-Supervision
+Co-Supervision
 =====
 * Mahmoud Mohamed
   * Master in Informatics, expected May 2025
@@ -77,7 +77,7 @@ redirect_from:
   * Title: Generating Summaries of Bar Charts
 
   
-##Service
+Service
 ======
 * Reviewer
   * 2016 - 2024
