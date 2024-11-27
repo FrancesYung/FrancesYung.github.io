@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Linguistics, Nara Institute of Science and Technology, Japan, 2017
+* M.Eng. in Computational Linguistics, Nara Institute of Science and Technology, Japan, 2014
+* M.A. in Language Studies, City University of Hong Kong, Hong Kong, 2011
+* B.A. in Translation, Chinese University of Hong Kong, Hong Kong, 2003
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2022 – Present
+  * Cognitive Modelling of Information Density for Discourse Relations
+  * SFB1102 Project B2 Phase 3, PIs: Vera Demberg, Merel Scholman 
+  * Multilingual discourse relation resources; cross-lingual corpus analysis
+  * Domain adaptation of discourse parsers, perspectiveness in discourse
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2018 – June 2022
+  * Cognitive Modelling of Information Density for Discourse Relations
+  * SFB1102 Project B2 Phase 2, PI: Vera Demberg
+  * RAS models for discourse processing
+  * crowdsourcing discourse relations
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* April 2017 - June 2018
+  * Cognitive Modelling of Information Density for Discourse Relations
+  * SFB1102 Project B2 Phase 1, PI: Vera Demberg
+  * Uniform Information Density and discourse relation markedness
+
 
 Publications
 ======
@@ -47,18 +42,48 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+Co-Supervision
+=====
+* Mahmoud Mohamed
+  * Master in Informatics, expected May 2025
+  * Title: Fine-tuning LLMs for explicit discourse relation identification
+
+* Mansoor Ahmad
+  * Master in Informatics, 2024
+  * Title Implicit Discourse Relation AnnotationUsing Large Language Models: A Prompt-driven Approach
+
+* Shahana Mogal
+  * Master in Data Science and Artificial Intelligence, 2024
+  * Title: Domain Adaptation for Implicit Discourse Relation Classification using Self-supervised Approaches
+
+* Nobel Varghese
+  * Master in Data Science and Artificial Intelligence, 2023
+  * Title: Improving discourse relation recognition using label information
+
+* Edena Berhani
+  * Master in Informatics, 2023
+  * Title: Multi-label classification using Crowd Layer for Collective Human Opinions on Natural Language Inference Data
+
+* Iza Skrjanec
+  * Master in Language Science and Technology, 2020
+  * Title: Generating Summaries of Bar Charts
+
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  * 2016 - 2024
+  * Conferences: AAR, ACL, EMNLP, NAACL, EACL, COLING, IJCNLP
+  * Workshops: *SEM, CMCL, CODI
+  * Journal: Frontiers
+
+* Area chair
+ * Sigdial 2024 
