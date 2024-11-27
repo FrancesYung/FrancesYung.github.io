@@ -73,8 +73,8 @@ Co-Supervision
   * Title: Multi-label classification using Crowd Layer for Collective Human Opinions on Natural Language Inference Data
 
 * Iza Skrjanec
- * Master in Language Science and Technology, 2020
- * Title: Generating Summaries of Bar Charts
+  * Master in Language Science and Technology, 2020
+  * Title: Generating Summaries of Bar Charts
 
   
 Service
