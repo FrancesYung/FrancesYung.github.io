@@ -7,9 +7,9 @@ excerpt: 'Implicit discourse relation classification is one of the most challeng
 date: 2018-01-01
 venue: 'Workshop on Discourse Relation Parsing and Treebanking @ NAACL'
 paperurl: 'https://aclanthology.org/W19-2703.pdf'
-authors: 'Shi, Wei; Yung, Frances; Demberg, Vera; '
+authors: 'Wei Shi, Frances Yung, Vera Demberg'
 ---
-Shi, Wei; Yung, Frances; Demberg, Vera; 
+Wei Shi, Frances Yung, Vera Demberg
 
 <a href='https://aclanthology.org/W19-2703.pdf'>Download paper here</a>
 

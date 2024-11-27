@@ -7,9 +7,9 @@ excerpt: 'Humans process language word by word and construct partial linguistic 
 date: 2017-01-01
 venue: 'IJPNLP'
 paperurl: 'https://aclanthology.org/I17-2027/'
-authors: 'Yung, Frances; Noji, Hiroshi; Matsumoto, Yuji; '
+authors: 'Frances Yung, Hiroshi Noji, Yuji Matsumoto'
 ---
-Yung, Frances; Noji, Hiroshi; Matsumoto, Yuji; 
+Frances Yung, Hiroshi Noji, Yuji Matsumoto
 
 <a href='https://aclanthology.org/I17-2027/'>Download paper here</a>
 

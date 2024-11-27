@@ -7,9 +7,9 @@ excerpt: 'Translation of discourse relations is one of the recent efforts of inc
 date: 2014-01-01
 venue: 'Student Research Workshop @ ACL'
 paperurl: 'https://aclanthology.org/P14-3003.pdf'
-authors: 'Yung, Frances; '
+authors: 'Frances Yung'
 ---
-Yung, Frances; 
+Frances Yung
 
 <a href='https://aclanthology.org/P14-3003.pdf'>Download paper here</a>
 

@@ -7,9 +7,9 @@ excerpt: 'We present a study of discourse connectives and discourse relations in
 date: 2024-01-01
 venue: 'Across Languages and Cultures'
 paperurl: 'https://akjournals.com/view/journals/084/25/2/article-p288.xml'
-authors: 'Pollkläsener, Christina; Yung, Frances; Lapshinova-Koltunski, Ekaterina; '
+authors: 'ChristinaPollkläsener, FrancesYung, Ekaterina Lapshinova-Koltunski'
 ---
-Pollkläsener, Christina; Yung, Frances; Lapshinova-Koltunski, Ekaterina; 
+ChristinaPollkläsener, FrancesYung, Ekaterina Lapshinova-Koltunski
 
 <a href='https://akjournals.com/view/journals/084/25/2/article-p288.xml'>Download paper here</a>
 

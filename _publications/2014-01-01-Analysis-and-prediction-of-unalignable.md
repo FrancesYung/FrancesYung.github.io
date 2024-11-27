@@ -7,9 +7,9 @@ excerpt: 'Professional human translators usually do not employ the concept of wo
 date: 2014-01-01
 venue: 'EACL'
 paperurl: 'https://aclanthology.org/E14-4037.pdf'
-authors: 'Yung, Frances; Duh, Kevin; Matsumoto, Yuji; '
+authors: 'Frances Yung, Kevin Duh, Yuji Matsumoto'
 ---
-Yung, Frances; Duh, Kevin; Matsumoto, Yuji; 
+Frances Yung, Kevin Duh, Yuji Matsumoto
 
 <a href='https://aclanthology.org/E14-4037.pdf'>Download paper here</a>
 

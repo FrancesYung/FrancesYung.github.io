@@ -7,9 +7,9 @@ excerpt: 'In many linguistic fields requiring annotated data, multiple interpret
 date: 2022-01-01
 venue: 'COLING'
 paperurl: 'https://aclanthology.org/2022.coling-1.322/'
-authors: 'Marchal, Marian; Scholman, Merel; Yung, Frances; Demberg, Vera; '
+authors: 'Marian Marchal, Merel Scholman, Frances Yung, Vera Demberg'
 ---
-Marchal, Marian; Scholman, Merel; Yung, Frances; Demberg, Vera; 
+Marian Marchal, Merel Scholman, Frances Yung, Vera Demberg
 
 <a href='https://aclanthology.org/2022.coling-1.322/'>Download paper here</a>
 

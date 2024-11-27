@@ -7,9 +7,9 @@ excerpt: 'Disagreement in natural language annotation has mostly been studied fr
 date: 2023-01-01
 venue: 'TACL'
 paperurl: 'https://virtual2023.aclweb.org/paper_T4803.html'
-authors: 'Pyatkin, Valentina; Yung, Frances; Scholman, Merel; Dagan, Ido; Tsarfaty, Reut; Demberg, Vera; '
+authors: 'Valentina Pyatkin, Frances Yung, Merel Scholman,  Ido Dagan, Reut Tsarfaty, Vera Demberg'
 ---
-Pyatkin, Valentina; Yung, Frances; Scholman, Merel; Dagan, Ido; Tsarfaty, Reut; Demberg, Vera; 
+Valentina Pyatkin, Frances Yung, Merel Scholman,  Ido Dagan, Reut Tsarfaty, Vera Demberg
 
 <a href='https://virtual2023.aclweb.org/paper_T4803.html'>Download paper here</a>
 

@@ -7,9 +7,9 @@ excerpt: 'We present DiscoGeM, a crowdsourced corpus of 6,505 implicit discourse
 date: 2022-01-01
 venue: 'LREC'
 paperurl: 'http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.351.pdf'
-authors: 'Scholman, Merel; Tianai, Dong; Yung, Frances; Demberg, Vera; '
+authors: 'Merel Scholman, Tianai  Dong, Frances Yung, Vera Demberg'
 ---
-Scholman, Merel; Tianai, Dong; Yung, Frances; Demberg, Vera; 
+Merel Scholman, Tianai  Dong, Frances Yung, Vera Demberg
 
 <a href='http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.351.pdf'>Download paper here</a>
 

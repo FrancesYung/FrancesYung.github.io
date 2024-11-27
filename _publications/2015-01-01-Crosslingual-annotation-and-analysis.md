@@ -7,9 +7,9 @@ excerpt: 'Usage of discourse connectives (DCs) differs across languages, thus ad
 date: 2015-01-01
 venue: 'Workshop on Discourse in Machine Translation @ EMNLP'
 paperurl: 'https://aclanthology.org/W15-2519.pdf'
-authors: 'Yung, Frances; Duh, Kevin; Matsumoto, Yuji; '
+authors: 'Frances Yung, Kevin Duh, Yuji Matsumoto'
 ---
-Yung, Frances; Duh, Kevin; Matsumoto, Yuji; 
+Frances Yung, Kevin Duh, Yuji Matsumoto
 
 <a href='https://aclanthology.org/W15-2519.pdf'>Download paper here</a>
 

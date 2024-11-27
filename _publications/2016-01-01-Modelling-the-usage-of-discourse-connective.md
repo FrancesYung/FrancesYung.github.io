@@ -7,9 +7,9 @@ excerpt: 'Discourse relations can either be implicit or explicitly expressed by 
 date: 2016-01-01
 venue: 'CoNLL @ ACL'
 paperurl: 'https://aclanthology.org/K16-1030.pdf'
-authors: 'Yung, Frances; Duh, Kevin; Komura, Taku; Matsumoto, Yuji; '
+authors: 'Frances Yung, Kevin Duh, Taku Komura, Yuji Matsumoto'
 ---
-Yung, Frances; Duh, Kevin; Komura, Taku; Matsumoto, Yuji; 
+Frances Yung, Kevin Duh, Taku Komura, Yuji Matsumoto
 
 <a href='https://aclanthology.org/K16-1030.pdf'>Download paper here</a>
 

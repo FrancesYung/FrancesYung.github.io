@@ -7,9 +7,9 @@ excerpt: 'Discourse relations can either be explicitly marked by discourse conne
 date: 2017-01-01
 venue: 'Dialogue and Discourse'
 paperurl: 'https://journals.uic.edu/ojs/index.php/dad/article/view/10685/9460'
-authors: 'Yung, Frances; Duh, Kevin; Komura, Taku; Matsumoto, Yuji; '
+authors: 'Frances Yung, Kevin Duh, Taku Komura, Yuji Matsumoto'
 ---
-Yung, Frances; Duh, Kevin; Komura, Taku; Matsumoto, Yuji; 
+Frances Yung, Kevin Duh, Taku Komura, Yuji Matsumoto
 
 <a href='https://journals.uic.edu/ojs/index.php/dad/article/view/10685/9460'>Download paper here</a>
 

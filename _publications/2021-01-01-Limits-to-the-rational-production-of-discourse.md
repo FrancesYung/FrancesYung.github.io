@@ -7,9 +7,9 @@ excerpt: 'Rational accounts of language use such as the uniform information dens
 date: 2021-01-01
 venue: 'Frontiers in Psychology'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fpsyg.2021.660730/full'
-authors: 'Yung, Frances; Jungbluth, Jana; Demberg, Vera; '
+authors: 'Frances Yung, Jana Jungbluth, Vera Demberg'
 ---
-Yung, Frances; Jungbluth, Jana; Demberg, Vera; 
+Frances Yung, Jana Jungbluth, Vera Demberg
 
 <a href='https://www.frontiersin.org/articles/10.3389/fpsyg.2021.660730/full'>Download paper here</a>
 
