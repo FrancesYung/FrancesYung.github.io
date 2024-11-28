@@ -10,7 +10,7 @@ paperurl: 'https://akjournals.com/view/journals/084/25/2/article-p288.xml'
 citation: 'Christina Pollkläsener, Frances Yung, Ekaterina Lapshinova-Koltunski (Across Languages and Cultures 2024)'
 authors: 'Christina Pollkläsener, FrancesYung, Ekaterina Lapshinova-Koltunski'
 ---
-Christina Pollkläsener, FrancesYung, Ekaterina Lapshinova-Koltunski
+Christina Pollkläsener, Frances Yung, Ekaterina Lapshinova-Koltunski
 
 <a href='https://akjournals.com/view/journals/084/25/2/article-p288.xml'>Download paper here</a>
 
