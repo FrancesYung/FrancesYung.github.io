@@ -8,7 +8,7 @@ date: 2024-01-01
 venue: 'Across Languages and Cultures'
 paperurl: 'https://akjournals.com/view/journals/084/25/2/article-p288.xml'
 citation: 'Christina Pollkläsener, Frances Yung, Ekaterina Lapshinova-Koltunski (Across Languages and Cultures 2024)'
-authors: 'Christina Pollkläsener, FrancesYung, Ekaterina Lapshinova-Koltunski'
+authors: 'Christina Pollkläsener, Frances Yung, Ekaterina Lapshinova-Koltunski'
 ---
 Christina Pollkläsener, Frances Yung, Ekaterina Lapshinova-Koltunski
 
