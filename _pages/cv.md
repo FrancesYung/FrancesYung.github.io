@@ -86,7 +86,7 @@ Service
   * 2016 - 2024
   * Conferences: AAR, ACL, EMNLP, NAACL, EACL, COLING, IJCNLP
   * Workshops: *SEM, CMCL, CODI
-  * Journal: Frontiers
+  * Journal: Frontiers, Discourse \& Dialogues, Computational Linguistics, Language and Linguistics Compass
 
 * Area chair
-  * Sigdial 2024 
+  * Sigdial 2024-2025

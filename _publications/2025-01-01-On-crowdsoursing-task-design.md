@@ -5,10 +5,10 @@ category: conferences
 permalink: /publication/2025-01-01-On-crowdsoursing-task-design
 date: 2025-01-01
 venue: 'Workshop on Navigating Disagreement in NLP Annotation @ COLING'
-paperurl: 'https://arxiv.org/abs/2412.11637'
+paperurl: 'https://aclanthology.org/2025.comedi-1.2/'
 citation: 'Frances Yung, Vera Demberg (CoMeDi Workshop @ Coling 2025)'
 authors: 'Frances Yung, Vera Demberg'
 ---
 Frances Yung, Vera Demberg
 
-<a href='https://arxiv.org/abs/2412.11637'>Download paper here</a>
+<a href='https://aclanthology.org/2025.comedi-1.2/'>Download paper here</a>

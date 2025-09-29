@@ -1,3 +1,39 @@
+My notes:
+
+-revise publication.csv in markdown_generator
+-then run publications.py
+
+
+pikyufrances-y@dhcp104-232 FrancesYung.github.io % cd markdown_generator          
+pikyufrances-y@dhcp104-232 markdown_generator % python3 publications.py
+pikyufrances-y@dhcp104-232 markdown_generator % git add *
+pikyufrances-y@dhcp104-232 markdown_generator % git commit -m "add paper"    
+[master 176a3de] add paper
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+pikyufrances-y@dhcp104-232 markdown_generator % git push origin master
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 559 bytes | 559.00 KiB/s, done.
+Total 4 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To github.com:FrancesYung/FrancesYung.github.io.git
+   991053d..176a3de  master -> master
+pikyufrances-y@dhcp104-232 markdown_generator % 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
