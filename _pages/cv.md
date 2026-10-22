@@ -19,6 +19,11 @@ Education
 
 Research experience
 ======
+* May 2026 – April 2029
+  * Gesture-informed language models: Evaluating Multimodal Discourse Processing in LLMs and Humans
+  * DFG Priority Programme SPP 2556 (LaSTing), PI: Frances Yung
+  * Funding: EUR 321,920 (264,600 + 40,320 + 17,000)
+
 * July 2022 – Present
   * Cognitive Modelling of Information Density for Discourse Relations
   * SFB1102 Project B2 Phase 3, PIs: Vera Demberg, Merel Scholman 
