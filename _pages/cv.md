@@ -24,7 +24,7 @@ Research experience
   * DFG Priority Programme SPP 2556 (LaSTing), PI: Frances Yung
   * Funding: EUR 321,920 (264,600 + 40,320 + 17,000)
 
-* July 2022 – Present
+* July 2022 – April 2026
   * Cognitive Modelling of Information Density for Discourse Relations
   * SFB1102 Project B2 Phase 3, PIs: Vera Demberg, Merel Scholman 
   * Multilingual discourse relation resources; cross-lingual corpus analysis
