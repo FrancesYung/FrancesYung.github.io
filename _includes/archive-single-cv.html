@@ -33,8 +33,8 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
       {% if post.collection == 'teaching' %}
-         <p style="font-size: smaller"> {{ post.type }}, <i>{{ post.venue }}</i>, {% if post.years %}{{ post.years }}{% else %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
-      {% endif %} </p>
+         <p style="font-size: smaller"> {{ post.type }}, <i>{{ post.venue }}</i>, {% if post.years %}{{ post.years }}{% else %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}</p>
+      {% endif %}
       
     </h3>
     {% if post.read_time %}
