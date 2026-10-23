@@ -5,5 +5,6 @@ type: "Teaching Assistant; Lectures and exercises for Bachelor students"
 permalink:
 venue: "Saarland University, Department of Computer Science"
 date: 2024-10-27
+years: "2019–2026"
 location: "Saarbrücken, Germany"
 ---
