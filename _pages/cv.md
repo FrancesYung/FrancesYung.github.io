@@ -59,8 +59,16 @@ Teaching
 
 Co-Supervision
 =====
+* Enosh Peter Ponraj
+  * Master in Data Science and Artificial Intelligence, July 2026
+  * Title: Discourse relation parsing for Tamil
+
+* Abhishek Verma
+  * Master in Informatics, July 2026
+  * Title: Bias in discourse interpretation based on political ideology
+
 * Mahmoud Mohamed
-  * Master in Informatics, expected May 2025
+  * Master in Informatics, May 2025
   * Title: Fine-tuning LLMs for explicit discourse relation identification
 
 * Mansoor Ahmad
@@ -88,8 +96,8 @@ Co-Supervision
 Service
 ======
 * Reviewer
-  * 2016 - 2024
-  * Conferences: AAR, ACL, EMNLP, NAACL, EACL, COLING, IJCNLP
+  * since 2016
+  * Conferences: ARR (ACL Rolling Review), ACL, EMNLP, NAACL, EACL, COLING, IJCNLP
   * Workshops: *SEM, CMCL, CODI
   * Journal: Frontiers, Discourse \& Dialogues, Computational Linguistics, Language and Linguistics Compass
 
